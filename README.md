@@ -1,2 +1,2 @@
 # sap_atheer
-ABAP snippet for SAP-Atheer Project
+ABAP code for SAP-Atheer
